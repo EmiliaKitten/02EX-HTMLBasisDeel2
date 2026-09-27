@@ -1,0 +1,21 @@
+footer {
+  padding : 1px;
+  color : white;
+  background : red;
+}
+
+ul {
+  background : gray;
+}
+
+li {
+  color : white;
+}
+
+a:link {
+  color: transparent;
+}
+
+.current {
+  color : red;
+}
